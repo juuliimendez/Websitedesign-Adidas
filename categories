@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="adidas.css">
+<img src="logoadidas.png" alt="Logo" width="200">
+		<p align="center"><a href="home.html" class="active" > Home </a>
+		<a href="aboutus.html" class="active"> About us </a> <a href="contact.html" class="active"> Contact </a></p>
+<p align="right"><a href="categories" class="active"> Categories </a></p>
+<table rowspan="3">
+<tr>
+	<td><h4>WOMEN</h4></td>
+				<td></td>
+				<td></td>
+				</tr>
+			</table>
+	
+<table rowspan="3">
+<tr>
+	<td><h4>MEN</h4></td>
+		<td></td>
+		<td></td>
+	</tr>
+	</table>
+	
+<table rowspan="3">
+<tr>
+	<td><h4>KIDS</h4></td>
+		<td></td>
+		<td></td>
+	</tr>
+	</table>
+	
+</body>
+</html>
