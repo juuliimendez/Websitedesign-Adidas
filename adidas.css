@@ -1,6 +1,5 @@
 body{
-	background-color: #FFFFFF;
-	background-image: logoadidas.png
+	background-image: url("background.html");
 }
 img:hover{
 	filter: blur(10px);
@@ -40,3 +39,4 @@ border-bottom-color: #c44536
 	width: 100px
 
 }
+
